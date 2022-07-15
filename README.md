@@ -16,7 +16,7 @@ Cakupan proyek ini dimulai dengan bagaimana mengambil dan mempersiapakan data se
 ## Risk and Issue Management Plan: 
 Proses melatih dan meningkatkan model pada penelitian ini memerlukan sumber daya yang cukup besar dan memerlukan waktu yang lama. Perhitungan kemampuan dan bagaimana strategi melatih model tersebut perlu diperhatikan, seperti banyaknya proses melatih dan target minimal yang dikehendaki. Jika hal tersebut tidak tercapai, pengurangan peningkatan kemampuan model akan dilakukan.
 
-## Anggota
-1. Salim Athari @sal-ath
-2. Hendra Hidayat @hendrahidayatUINSK
-3. Herjuna Artanto @herjunart
+## Team:
+1. [Salim Athari](https://github.com/sal-ath)
+2. [Hendra Hidayat](https://github.com/hendrahidayatUINSK)
+3. [Herjuna Artanto](https://github.com/herjunart)
